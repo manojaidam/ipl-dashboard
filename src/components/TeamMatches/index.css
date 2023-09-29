@@ -1,0 +1,25 @@
+.team-matches-container {
+  width: 100vw;
+  background-image: linear-gradient(to bottom, #d91c1f, #a4261d, #1e293b);
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.team-match-image {
+  width: 100%;
+}
+.recent-match-list-container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.latest-match-heading {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 20px;
+}

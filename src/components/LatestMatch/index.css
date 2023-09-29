@@ -1,0 +1,50 @@
+.latest-match-container {
+  width: 100%;
+  font-family: 'Bree Serif';
+  background-color: #1e293b;
+  margin-top: 10px;
+  color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px;
+}
+.latest-match-container {
+  display: flex;
+}
+.first-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.team-name {
+  font-size: 20px;
+}
+.stadium-name {
+  font-size: 15px;
+}
+.venue {
+  font-size: 15px;
+}
+.match-result {
+  font-size: 15px;
+}
+.team-logo-image {
+  width: 30vw;
+  height: 30vh;
+}
+.second-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.team-para {
+  font-size: 20px;
+}
+.team-para-description {
+  font-size: 16px;
+}
